@@ -29,4 +29,4 @@ sh node-exporter.sh
 
 copy&paste ec2-pubip:9100
 
-#allow port in ec2 security-group
+#check port in ec2 security-group, if not working
